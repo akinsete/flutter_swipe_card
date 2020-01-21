@@ -11,6 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   fluttery_dart2: ^0.0.9
+  cached_network_image: ^2.0.0
 
 dev_dependencies:
   flutter_test:

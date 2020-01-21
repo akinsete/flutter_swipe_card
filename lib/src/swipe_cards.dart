@@ -1,8 +1,8 @@
 library swipe_cards;
 
 import 'package:flutter/material.dart';
-import './cards.dart';
-import './matches.dart';
+import 'cards/cards.dart';
+import 'matches.dart';
 
 class SwipeCard extends StatefulWidget {
   SwipeCard({
