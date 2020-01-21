@@ -1,7 +1,7 @@
 name: swipe_cards
-description: A new Flutter package project.
+description: Tinder-like Swipeable cards.
 version: 0.0.1
-author:
+author: Sunday Akinsete
 homepage:
 
 environment:
